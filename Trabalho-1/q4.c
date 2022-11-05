@@ -23,5 +23,5 @@ int main() {
 	
 	n1 = valor / 1;
 	
-	printf("%d\n%d\n%d\n%d\n%d\n%d", n50, n20, n10, n5, n2, n1);
+	printf("%d \n%d \n%d \n%d \n%d \n%d", n50, n20, n10, n5, n2, n1);
 }
