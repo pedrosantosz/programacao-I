@@ -6,7 +6,7 @@ int main() {
 	scanf("%d %d %d", &a1, &a2, &a3);
 	soma = a1 + a2 + a3;
 	
-	if (soma > 180 || soma < 180)
+	if (soma != 180)
 		printf("Nao e um triangulo");
 	else
 		if (a1 < 90 && a2 < 90 && a3 < 90)
